@@ -1,3 +1,6 @@
 [submodule "okupasi-be"]
 	path = okupasi-be
 	url = https://github.com/fwttnnn/okupasi-be.git
+[submodule "okupasi-fe"]
+	path = okupasi-fe
+	url = https://github.com/fwttnnn/okupasi-fe.git
