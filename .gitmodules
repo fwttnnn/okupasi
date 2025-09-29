@@ -1,6 +1,6 @@
 [submodule "okupasi-be"]
-	path = okupasi-be
+	path = backend
 	url = https://github.com/fwttnnn/okupasi-be.git
 [submodule "okupasi-fe"]
-	path = okupasi-fe
+	path = frontend
 	url = https://github.com/fwttnnn/okupasi-fe.git
